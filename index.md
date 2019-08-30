@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Class time is right before lunch
 - Smaller classes
 
-1. Numbered
-2. List
+1. Kichul 
+2. Kang
 
 **Bold** and _Italic_ and `Code` text
 
