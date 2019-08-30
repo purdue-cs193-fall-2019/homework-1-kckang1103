@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Class time is right before lunch
+- Smaller classes
 
 1. Numbered
 2. List
