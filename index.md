@@ -1,5 +1,9 @@
 # Kichul's First CS193 Homework
-## Kichul's First CS193 Homework
+## Favorite things about CS193
+
+1. Class time is right before lunch
+2. Smaller classes
+3. TA's seem pretty nice
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,15 +16,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Favorite things about CS193
+# Header 1
 ## Header 2
 ### Header 3
 
-- Class time is right before lunch
-- Smaller classes
+- List
+- List
 
-1. Kichul 
-2. Kang
+1. List
+2. List
 
 **Bold** and _Italic_ and `Code` text
 
