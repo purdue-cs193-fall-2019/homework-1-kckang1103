@@ -1,9 +1,9 @@
 # Kichul's First CS193 Homework
 ## Favorite things about CS193
 
-1. Class time is right before lunch
-2. Smaller classes
-3. TA's seem pretty nice
+- Class time is right before lunch
+- Smaller classes
+- TA's seem pretty nice
 
 
 ## Random stuff
